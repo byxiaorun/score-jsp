@@ -1,0 +1,216 @@
+
+12月 19, 2018 15:10:02.60 NEW SESSION
+12月 19, 2018 15:10:02.60 1545203402615	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:12:03.45 console.error: commonfix: 
+12月 19, 2018 15:12:03.45   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:12:03.45   Stack:
+12月 19, 2018 15:12:03.45     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:12:03.45 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:12:03.45 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:12:03.45 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:12:03.45 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:12:03.45 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:12:03.45 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:12:03.45 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:12:03.45 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:12:03.45 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:12:03.45 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:12:03.45 
+12月 19, 2018 15:12:33.01 1545203553025	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:13:38.60 console.error: commonfix: 
+12月 19, 2018 15:13:38.60   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:13:38.60   Stack:
+12月 19, 2018 15:13:38.60     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:13:38.60 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:13:38.60 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:13:38.60 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:13:38.60 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:13:38.60 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:13:38.60 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:13:38.60 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:13:38.60 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:13:38.60 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:13:38.60 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:13:38.60 
+12月 19, 2018 15:13:51.97 1545203631994	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:14:01.98 console.error: commonfix: 
+12月 19, 2018 15:14:01.98   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:14:01.98   Stack:
+12月 19, 2018 15:14:01.98     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:14:01.98 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:14:01.98 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:14:01.98 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:14:01.98 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:14:01.98 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:14:01.98 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:14:01.98 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:14:01.98 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:14:01.98 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:14:01.98 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:14:01.98 
+12月 19, 2018 15:14:08.45 1545203648451	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 19, 2018 15:38:58.77 NEW SESSION
+12月 19, 2018 15:38:58.77 1545205138772	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:47:19.41 console.error: commonfix: 
+12月 19, 2018 15:47:19.41   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:47:19.41   Stack:
+12月 19, 2018 15:47:19.41     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:47:19.41 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:47:19.41 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:47:19.41 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:47:19.41 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:47:19.41 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:47:19.41 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:47:19.41 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:47:19.41 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:47:19.41 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:47:19.41 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:47:19.41 
+12月 19, 2018 15:48:08.63 1545205688638	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:49:53.08 console.error: commonfix: 
+12月 19, 2018 15:49:53.08   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:49:53.08   Stack:
+12月 19, 2018 15:49:53.08     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:49:53.08 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:49:53.08 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:49:53.08 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:49:53.08 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:49:53.08 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:49:53.08 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:49:53.08 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:49:53.08 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:49:53.08 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:49:53.08 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:49:53.08 
+12月 19, 2018 15:49:58.68 1545205798683	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:50:04.33 console.error: commonfix: 
+12月 19, 2018 15:50:04.33   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:50:04.33   Stack:
+12月 19, 2018 15:50:04.33     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:50:04.33 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:50:04.33 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:50:04.33 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:50:04.33 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:50:04.33 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:50:04.33 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:50:04.33 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:50:04.33 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:50:04.33 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:50:04.33 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:50:04.33 
+12月 19, 2018 15:50:35.47 1545205835476	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 15:51:01.72 console.error: commonfix: 
+12月 19, 2018 15:51:01.72   Message: ReferenceError: reason is not defined
+12月 19, 2018 15:51:01.72   Stack:
+12月 19, 2018 15:51:01.72     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 15:51:01.72 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 15:51:01.72 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 15:51:01.72 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 15:51:01.72 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 15:51:01.72 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 15:51:01.72 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 15:51:01.72 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 15:51:01.72 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 15:51:01.72 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 15:51:01.72 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 15:51:01.72 
+12月 19, 2018 15:51:05.62 1545205865623	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 16:10:14.92 console.error: commonfix: 
+12月 19, 2018 16:10:14.92   Message: ReferenceError: reason is not defined
+12月 19, 2018 16:10:14.92   Stack:
+12月 19, 2018 16:10:14.92     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 16:10:14.92 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 16:10:14.92 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 16:10:14.92 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 16:10:14.92 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 16:10:14.92 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 16:10:14.92 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 16:10:14.92 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 16:10:14.92 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 16:10:14.92 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 16:10:14.92 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 16:10:14.92 
+12月 19, 2018 16:10:44.42 1545207044426	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 16:11:41.34 console.error: commonfix: 
+12月 19, 2018 16:11:41.34   Message: ReferenceError: reason is not defined
+12月 19, 2018 16:11:41.35   Stack:
+12月 19, 2018 16:11:41.35     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 16:11:41.35 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 16:11:41.35 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 16:11:41.35 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 16:11:41.35 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 16:11:41.35 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 16:11:41.35 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 16:11:41.35 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 16:11:41.35 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 16:11:41.35 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 16:11:41.35 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 16:11:41.35 
+12月 19, 2018 16:12:18.97 1545207138979	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 16:12:53.02 console.error: commonfix: 
+12月 19, 2018 16:12:53.02   Message: ReferenceError: reason is not defined
+12月 19, 2018 16:12:53.02   Stack:
+12月 19, 2018 16:12:53.02     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 16:12:53.02 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 16:12:53.02 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 16:12:53.02 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 16:12:53.02 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 16:12:53.02 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 16:12:53.02 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 16:12:53.02 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 16:12:53.02 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 16:12:53.02 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 16:12:53.02 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 16:12:53.02 
+12月 19, 2018 16:13:16.14 1545207196163	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 16:14:46.66 console.error: commonfix: 
+12月 19, 2018 16:14:46.66   Message: ReferenceError: reason is not defined
+12月 19, 2018 16:14:46.66   Stack:
+12月 19, 2018 16:14:46.66     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 16:14:46.66 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 16:14:46.66 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 16:14:46.66 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 16:14:46.66 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 16:14:46.66 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 16:14:46.66 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 16:14:46.66 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 16:14:46.66 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 16:14:46.66 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 16:14:46.66 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 16:14:46.66 
+12月 19, 2018 16:15:52.55 1545207352554	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 16:16:31.07 console.error: commonfix: 
+12月 19, 2018 16:16:31.07   Message: ReferenceError: reason is not defined
+12月 19, 2018 16:16:31.07   Stack:
+12月 19, 2018 16:16:31.07     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 16:16:31.07 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 16:16:31.07 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 16:16:31.07 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 16:16:31.07 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 16:16:31.07 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 16:16:31.07 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 16:16:31.07 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 16:16:31.07 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 16:16:31.07 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 16:16:31.07 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 16:16:31.07 
+12月 19, 2018 16:16:34.66 1545207394667	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+
+12月 19, 2018 16:21:29.99 NEW SESSION
+12月 19, 2018 16:21:29.99 1545207689997	addons.webextension.wx-assistant@mozillaonline.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+12月 19, 2018 16:21:42.63 console.error: commonfix: 
+12月 19, 2018 16:21:42.63   Message: ReferenceError: reason is not defined
+12月 19, 2018 16:21:42.63   Stack:
+12月 19, 2018 16:21:42.63     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/lib/main.js:316:1
+12月 19, 2018 16:21:42.64 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 19, 2018 16:21:42.64 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 19, 2018 16:21:42.64 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 19, 2018 16:21:42.64 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:81:7
+12月 19, 2018 16:21:42.64 unload@resource://gre/modules/commonjs/toolkit/loader.js:795:3
+12月 19, 2018 16:21:42.64 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:153:9
+12月 19, 2018 16:21:42.64 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:149:12
+12月 19, 2018 16:21:42.64 shutdown@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/addon/bootstrap.js:146:12
+12月 19, 2018 16:21:42.64 this.XPIProvider.callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4785:9
+12月 19, 2018 16:21:42.64 this.XPIProvider.startup/<.observe@resource://gre/modules/addons/XPIProvider.jsm:2799:15
+12月 19, 2018 16:21:42.64 
